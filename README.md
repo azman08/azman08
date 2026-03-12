@@ -30,7 +30,7 @@ const azman = {
   location:     "Faridabad, Haryana 🇮🇳",
   education:    "B.Tech CSE — AKTU Lucknow (2022)",
   currently:    "100 Days × 100 Projects Challenge 🔥",
-  obsessedWith: ["clean APIs", "real deploys", "zero-dependency UIs"],
+  obsessedWith: ["clean APIs", "Real deploys", "zero-dependency UIs"],
   motto:        "Ship it. Learn it. Do it again."
 };
 ```
