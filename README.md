@@ -86,7 +86,7 @@ const azman = {
 
 > Zero dependencies. Just HTML + CSS + JS doing what they were made for.
 
-- 📋 15 preloaded snippets across Dev / Social / Email / Design
+- 📋 15 preloaded snippets across Dev / Social / Email / Design 
 - 🕐 Session history (last 20), toast system, keyboard shortcuts
 - **Stack:** `HTML5` `CSS3` `Vanilla JS`
 
@@ -153,7 +153,7 @@ const azman = {
 ╔═══════════════════════════════════════════╗
 ║  Currently building in public.            ║
 ║  DMs open. Collaboration welcome.         ║
-║  Let's ship something real together.      ║
+║  Let's ship something real together..     ║
 ╚═══════════════════════════════════════════╝
 ```
 
