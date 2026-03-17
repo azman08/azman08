@@ -143,7 +143,7 @@ const azman = {
 ## `> cat certifications.txt`
 
 - 🐍 **100 Days of Python** — Udemy *(data science, automation, web, games, apps)*
-- ⚛️ **React & Redux** — Udemy *(Router, Context API, Hooks, Tailwind)*
+- ⚛️ **React & Redux** — Udemy *(Router, Context API, Hooks, Tailwind.)*
 
 ---
 
