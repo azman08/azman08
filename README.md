@@ -17,7 +17,8 @@
 
 ## 👋 𝗛𝗶, 𝗜'𝗺 𝗔𝘇𝗺𝗮𝗻 𝗔𝗹𝗶
 
-🚀 Full Stack & Mobile App Developer  
+🚀 Full Stack Developer
+📱 Mobile App Developer 
 💻 Shipping real products · Building in public · Breaking in private  
 📍 Gurugram , Haryana 🇮🇳 · B.Tech CSE — AKTU Lucknow (2022)
 
